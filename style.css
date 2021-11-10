@@ -1,0 +1,61 @@
+div.container {
+    max-width: 1000px;
+    margin:auto;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(auto, 5);
+}
+
+#headline {
+    color: darkred;
+    font-family: 'Arial';
+    font-size: 2em;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#subhead{
+    font-size: 1.5em;
+    font-family: 'Arial';
+    text-align: left;
+}
+
+h4{
+    font-size: 1.5em;
+    font-family: 'Arial';
+    text-align: left;
+}
+p, ul, a {
+    line-height: 25px;
+    font-family: 'Arial';
+    font-size: 0.7em;
+}
+
+p{
+    color: blacks;
+    font-size: 1em;
+    font-family: 'Arial';
+    text-align: center;
+    font-style: italic; 
+}
+a {
+text-decoration: none;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+img.one {
+    float: center;
+    margin: 0.5px;
+    max-width: 40%;
+    max-height: auto;
+}
+
+img.two {
+    float: center;
+    margin: 0.5px;
+    max-width: 20%;
+    max-height: auto; 
+}
