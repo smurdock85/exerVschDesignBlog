@@ -6,7 +6,7 @@
 - [x] Build the page file(s) in VSCode or an IDE of your choice.
 - [x] Push your changes back to your GitHub repository.
 - [x] Turn on GitHub pages for your repository so your site can be viewed in a browser directly.
-- [x] Turn in a link to your GitHub repository and your GitHub Pages site for this assignment in Canvas.
+- [ ] Turn in a link to your GitHub repository and your GitHub Pages site for this assignment in Canvas.
 
 ## Link to assignment description
 
